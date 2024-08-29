@@ -12,6 +12,9 @@ por el usuario a un carrito de compras que almacena toda la informacion en el Lo
 
 ## Imagenes del juego
 ![Imagen 1](./img/ecommerce1.png)
+
 ![Imagen 2](./img/ecommerce2.png)
+
 ![Imagen 3](./img/ecommerce3.png)
+
 ![Imagen 4](./img/ecommerce4.png)
