@@ -10,7 +10,7 @@ por el usuario a un carrito de compras que almacena toda la informacion en el Lo
   - [NodeJs](https://nodejs.org/en): Entorno de ejecución de JavaScript multiplataforma, de código abierto y gratuito que permite crear servidores y aplicaciones web.
   - [Vite](https://es.vitejs.dev/): Es una herramienta para Frontend, creada por Evan You, mismo creador de Vuejs, que nos permite crear aplicaciones de Javascript usando algún framework o      libreria como ReactJs, Vuejs, Angular ya sea con algún framework especifico o ya sea Vanillajs.
 
-## Imagenes del juego
+## Imagenes del ecommerce
 ![Imagen 1](./img/ecommerce1.png)
 
 ![Imagen 2](./img/ecommerce2.png)
